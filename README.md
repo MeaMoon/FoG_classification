@@ -15,3 +15,6 @@ The proposed model consist out of three independant convolutional layers, which 
 ## Used software
 This project was created using:
 * Spyder (Python 3.8)
+## Visualised model structure
+![CNN1D with 256 framed segments](./Model_plots/model_plot.png)
+![CNN1D with 64 framed segments](./Model_plots/model_plot_64.png)
