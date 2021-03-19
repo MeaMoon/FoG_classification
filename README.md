@@ -19,3 +19,4 @@ This project was created using:
 ## Visualised model structure
 ![CNN1D with 256 framed segments](./Model_plots/model_plot.png)
 ![CNN1D with 64 framed segments](./Model_plots/model_plot_64.png)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
